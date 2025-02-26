@@ -78,9 +78,9 @@ class ComboEditor:
 
 [/] Combo Editor - github.com/y039f
 
-[/] Discord      | discord.gg/DBMBPdeqZm
-[/] Telegram     | @pasjonatyk
-[/] Cracked      | cracked.io/hypedfs
+[/] Discord      | t.me/deadptrmenu
+[/] Telegram     | @deadptr
+[/] Nulled       | patched.to/User/zaharzimny
         '''
         colored_ascii = Colorate.Horizontal(Colors.blue_to_purple,(ascii_art))
         print(colored_ascii)
